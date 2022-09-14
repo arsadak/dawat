@@ -1,2 +1,1 @@
-# dawat 
-hello moto
+# dawat
